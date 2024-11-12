@@ -17,13 +17,13 @@
     "teneo-node-extension-bot",
     "teneo-node",
     "teneo-extension",
-    "Crypto News"
+    "airdropinsider"
   ],
-  "author": "Crypto News",
+  "author": "AirdropInsider",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Animehub4u/teneo"
+    "url": "git+https://github.com/PrastianHD/tono.git"
   },
   "dependencies": {
     "axios": "^1.7.7",
