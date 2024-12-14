@@ -91,33 +91,12 @@
       }
     }
     static showSkelLogo() {
-        console.log(`
+        console.log(`                                                                                                                                                          
 
-
-                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                         
-        CCCCCCCCCCCCC                                                                          tttt                                NNNNNNNN        NNNNNNNN                                                                              
-     CCC::::::::::::C                                                                       ttt:::t                                N:::::::N       N::::::N                                                                              
-   CC:::::::::::::::C                                                                       t:::::t                                N::::::::N      N::::::N                                                                              
-  C:::::CCCCCCCC::::C                                                                       t:::::t                                N:::::::::N     N::::::N                                                                              
- C:::::C       CCCCCCrrrrr   rrrrrrrrr   yyyyyyy           yyyyyyyppppp   ppppppppp   ttttttt:::::ttttttt       ooooooooooo        N::::::::::N    N::::::N    eeeeeeeeeeee    wwwwwww           wwwww           wwwwwww    ssssssssss   
-C:::::C              r::::rrr:::::::::r   y:::::y         y:::::y p::::ppp:::::::::p  t:::::::::::::::::t     oo:::::::::::oo      N:::::::::::N   N::::::N  ee::::::::::::ee   w:::::w         w:::::w         w:::::w   ss::::::::::s  
-C:::::C              r:::::::::::::::::r   y:::::y       y:::::y  p:::::::::::::::::p t:::::::::::::::::t    o:::::::::::::::o     N:::::::N::::N  N::::::N e::::::eeeee:::::ee  w:::::w       w:::::::w       w:::::w  ss:::::::::::::s 
-C:::::C              rr::::::rrrrr::::::r   y:::::y     y:::::y   pp::::::ppppp::::::ptttttt:::::::tttttt    o:::::ooooo:::::o     N::::::N N::::N N::::::Ne::::::e     e:::::e   w:::::w     w:::::::::w     w:::::w   s::::::ssss:::::s
-C:::::C               r:::::r     r:::::r    y:::::y   y:::::y     p:::::p     p:::::p      t:::::t          o::::o     o::::o     N::::::N  N::::N:::::::Ne:::::::eeeee::::::e    w:::::w   w:::::w:::::w   w:::::w     s:::::s  ssssss 
-C:::::C               r:::::r     rrrrrrr     y:::::y y:::::y      p:::::p     p:::::p      t:::::t          o::::o     o::::o     N::::::N   N:::::::::::Ne:::::::::::::::::e      w:::::w w:::::w w:::::w w:::::w        s::::::s      
-C:::::C               r:::::r                  y:::::y:::::y       p:::::p     p:::::p      t:::::t          o::::o     o::::o     N::::::N    N::::::::::Ne::::::eeeeeeeeeee        w:::::w:::::w   w:::::w:::::w            s::::::s   
- C:::::C       CCCCCC r:::::r                   y:::::::::y        p:::::p    p::::::p      t:::::t    tttttto::::o     o::::o     N::::::N     N:::::::::Ne:::::::e                  w:::::::::w     w:::::::::w       ssssss   s:::::s 
-  C:::::CCCCCCCC::::C r:::::r                    y:::::::y         p:::::ppppp:::::::p      t::::::tttt:::::to:::::ooooo:::::o     N::::::N      N::::::::Ne::::::::e                  w:::::::w       w:::::::w        s:::::ssss::::::s
-   CC:::::::::::::::C r:::::r                     y:::::y          p::::::::::::::::p       tt::::::::::::::to:::::::::::::::o     N::::::N       N:::::::N e::::::::eeeeeeee           w:::::w         w:::::w         s::::::::::::::s 
-     CCC::::::::::::C r:::::r                    y:::::y           p::::::::::::::pp          tt:::::::::::tt oo:::::::::::oo      N::::::N        N::::::N  ee:::::::::::::e            w:::w           w:::w           s:::::::::::ss  
-        CCCCCCCCCCCCC rrrrrrr                   y:::::y            p::::::pppppppp              ttttttttttt     ooooooooooo        NNNNNNNN         NNNNNNN    eeeeeeeeeeeeee             www             www             sssssssssss    
-                                               y:::::y             p:::::p                                                                                                                                                               
-                                              y:::::y              p:::::p                                                                                                                                                               
-                                             y:::::y              p:::::::p                                                                                                                                                              
-                                            y:::::y               p:::::::p                                                                                                                                                              
-                                           yyyyyyy                p:::::::p                                                                                                                                                              
-                                                                  ppppppppp                                                                                                                                                              
+ dP""b8 88""Yb Yb  dP 88""Yb 888888  dP"Yb      88b 88 888888 Yb        dP .dP"Y8 
+dP   `" 88__dP  YbdP  88__dP   88   dP   Yb     88Yb88 88__    Yb  db  dP  `Ybo." 
+Yb      88"Yb    8P   88"""    88   Yb   dP     88 Y88 88""     YbdPYbdP   o.`Y8b 
+ YboodP 88  Yb  dP    88       88    YbodP      88  Y8 888888    YP  YP    8bodP' 
                                                                                                                                                                                                                                          
 
     
