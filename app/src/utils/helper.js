@@ -93,10 +93,6 @@
     static showSkelLogo() {
         console.log(`
 
- dP""b8 88""Yb Yb  dP 88""Yb 888888  dP"Yb      88b 88 888888 Yb        dP .dP"Y8 
-dP   `" 88__dP  YbdP  88__dP   88   dP   Yb     88Yb88 88__    Yb  db  dP  `Ybo." 
-Yb      88"Yb    8P   88"""    88   Yb   dP     88 Y88 88""     YbdPYbdP   o.`Y8b 
- YboodP 88  Yb  dP    88       88    YbodP      88  Y8 888888    YP  YP    8bodP' 
    
          `);
       }
