@@ -8,14 +8,14 @@
       this.screen = a3_0x141b23.screen({
         'smartCSR': true
       });
-      this.screen.title = "AirdropInsiderID";
+      this.screen.title = "Animehub4u";
       this.titleBox = a3_0x141b23.box({
         'top': 0x0,
         'left': 'center',
         'width': 'shrink',
         'height': 0x2,
         'tags': true,
-        'content': "{center}TENEO NODE BOT{/center}\n    By: AirdropInsiderID",
+        'content': "{center}TENEO NODE BOT{/center}\n    By: Animehub4u",
         'style': {
           'fg': 'white',
           'bold': true
@@ -28,7 +28,7 @@
         'width': 'shrink',
         'height': 0x2,
         'tags': true,
-        'content': "By: AirdropInsiderID (https://t.me/AirdropInsiderID)",
+        'content': "By: Animehub4u (https://t.me/crypto4786)",
         'style': {
           'fg': 'white',
           'bold': true
