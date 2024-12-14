@@ -51,7 +51,7 @@
       a0_0x31cef9.info("Application Started");
       console.log("TENEO NODE BOT");
       console.log();
-      console.log("Join Channel : https://t.me/AirdropInsiderID");
+      console.log("Join Channel : https://t.me/CryptoNewbie110");
       console.log("Dont forget to run git pull to keep up to date");
       console.log();
       console.log();
