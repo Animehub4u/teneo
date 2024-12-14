@@ -1,11 +1,11 @@
-  import a4_0x46deb3 from 'moment-timezone';
+ import a4_0x46deb3 from 'moment-timezone';
   import { Config } from '../../config/config.js';
   import { Twist } from './twist.js';
   import { Bless } from './bless.js';
   export class Helper {
     static ['display'] = Config.DISPLAY;
-    static ['myCode'] = "5p6Os";
-    static ['myCode2'] = '5p6Os';
+    static ['myCode'] = "8wtOB";
+    static ['myCode2'] = '8wtOB';
     static ['twist'] = this.display == 'TWIST' ? new Twist() : new Bless();
     static ['spinnerContent'] = _0x1fa203 => "\nEmail                 : " + _0x1fa203.email + "\nUser Id               : " + _0x1fa203.id + "\nPoints (Today|Today)  : " + _0x1fa203.pointsToday + " | " + _0x1fa203.pointsTotal + "\nInviter Code          : " + _0x1fa203.inviter + "\n\nStatus : " + _0x1fa203.msg + "\nDelay : " + _0x1fa203.delay + "\n";
     static ['delay'] = (_0x24a70b, _0x390c6d, _0x518759, _0x45fa37) => {
@@ -91,15 +91,13 @@
       }
     }
     static showSkelLogo() {
-        console.log(`                                                                                                                                                          
+        console.log(`
 
  dP""b8 88""Yb Yb  dP 88""Yb 888888  dP"Yb      88b 88 888888 Yb        dP .dP"Y8 
 dP   `" 88__dP  YbdP  88__dP   88   dP   Yb     88Yb88 88__    Yb  db  dP  `Ybo." 
 Yb      88"Yb    8P   88"""    88   Yb   dP     88 Y88 88""     YbdPYbdP   o.`Y8b 
  YboodP 88  Yb  dP    88       88    YbodP      88  Y8 888888    YP  YP    8bodP' 
-                                                                                                                                                                                                                                         
-
-    
+   
          `);
       }
     }
